@@ -83,6 +83,3 @@ System.out.println("Test Accuracy: " + (accuracy * 100) + "%");
 ## Contributing
 Contributions are welcome! Please submit a pull request with a clear description of changes and improvements.
 
-## License
-This project is open-source and available under the MIT License.
-
